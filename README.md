@@ -302,8 +302,8 @@ Gemini is used for investigation and explanation; deterministic reconciliation r
 
 | Backend — API & Reconciliation | Frontend — Finance Dashboard |
 |:---:|:---:|
-| <img src="[screenshots/backend-1.png](https://github.com/Varun-AI-Robotics/ledgerpilot-ai/blob/41beb77bd3acada2ad1da93c168cbf3cff30c273/Dashboard.png)" width="480"> | <img src="[screenshots/frontend-1.png](https://github.com/Varun-AI-Robotics/ledgerpilot-ai/blob/41beb77bd3acada2ad1da93c168cbf3cff30c273/AI%20Assistant.png)" width="480"> |
-| <img src="[screenshots/backend-2.png](https://github.com/Varun-AI-Robotics/ledgerpilot-ai/blob/41beb77bd3acada2ad1da93c168cbf3cff30c273/Swagger.png)" width="480"> | <img src="[screenshots/frontend-2.png](https://github.com/Varun-AI-Robotics/ledgerpilot-ai/blob/41beb77bd3acada2ad1da93c168cbf3cff30c273/Scahemas.png)" width="480"> |
+| <img src="Dashboard.png" width="480"> | <img src="AI%20Assistant.png" width="480"> |
+| <img src="Swagger.png" width="480"> | <img src="Scahemas.png" width="480"> |
 | **FastAPI + Reconciliation Engine** | **React + Finance Operations UI** |
 
 ## 📄 License
