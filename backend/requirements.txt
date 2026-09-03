@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pandas
+sqlalchemy
+python-dotenv
+pydantic
+pip install google-genai
